@@ -26,7 +26,7 @@ local v2 = {
         Colors = shared.LoaderColors or {
             Main = Color3.fromRGB(0, 0, 0),
             Topic = Color3.fromRGB(200, 200, 200),
-            Title = hether ngu
+            Title = Color3.fromRGB(255, 255, 255),
             LoaderBackground = Color3.fromRGB(40, 40, 40),
             LoaderSplash = Color3.fromRGB(3, 252, 3)
         }
