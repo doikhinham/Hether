@@ -24,11 +24,11 @@ local v2 = {
     LoaderData = {
         Name = shared.LoaderTitle or "A Loader",
         Colors = shared.LoaderColors or {
-            Main = Color3.fromRGB(255, 198, 198),
-            Topic = Color3.fromRGB(253, 243, 248),
+            Main = Color3.fromRGB(0, 0, 0),
+            Topic = Color3.fromRGB(255, 255, 255),
             Title = Color3.fromRGB(247, 190, 244),
-            LoaderBackground = Color3.fromRGB(40, 40, 40),
-            LoaderSplash = Color3.fromRGB(3, 252, 3)
+            LoaderBackground = Color3.fromRGB(255, 198, 198),
+            LoaderSplash = Color3.fromRGB(253, 243, 148)
         }
     },
     Keyframes = shared.LoaderKeyFrames or {
