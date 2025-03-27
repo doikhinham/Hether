@@ -26,7 +26,7 @@ local v2 = {
         Colors = shared.LoaderColors or {
             Main = Color3.fromRGB(0, 0, 0),
             Topic = Color3.fromRGB(200, 200, 200),
-            Title = Color3.fromRGB(255, 255, 255),
+            Title = hether ngu
             LoaderBackground = Color3.fromRGB(40, 40, 40),
             LoaderSplash = Color3.fromRGB(3, 252, 3)
         }
@@ -2680,7 +2680,7 @@ v16.Home:AddButton({
     Title = "Discord",
     Description = "Giao Lưu",
     Callback = function()
-        setclipboard("https://discord.gg/tboyroblox");
+        setclipboard("https://discord.gg/H7pkrusrQ8");
     end
 });
 _G.FastAttackStrix_Mode = "Super Fast Attack";
